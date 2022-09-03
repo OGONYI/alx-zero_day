@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
  echo "ALX 
+=======
+#/bin/bash
+ echo "ALX" 
+>>>>>>> origin/update_script
